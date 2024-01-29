@@ -18,8 +18,8 @@
 3. [Object Detection by colour](#object-detection-by-colour)
 4. [Invisiblity Cloak](#invisiblity-cloak)
 5. [Green Screen](#green-screen)
-6. [Gaming Project](#gaming-project)
-7. [How to Run the Application](#how-to-run-the-application)
+6. [Gaming Project](#6-gaming-project)
+7. [How to Run the Application](#7-how-to-run-the-application)
 
 ## 1. Overview <a name="overview"></a>
 
