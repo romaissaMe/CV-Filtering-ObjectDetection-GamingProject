@@ -18,7 +18,7 @@
 3. [Object Detection by colour](#object-detection-by-colour)
 4. [Invisiblity Cloak](#invisiblity-cloak)
 5. [Green Screen](#green-screen)
-6. [Gaming Project](#6-gaming-project)
+6. [Gaming Project](#gaming-project)
 7. [How to Run the Application](#7-how-to-run-the-application)
 
 ## 1. Overview <a name="overview"></a>
@@ -94,7 +94,7 @@ In this part we implement a function `green_screen` that replaces the pixels of 
 3. Apply the mask to the image.
 4. Replace the pixels of the green screen with the pixels of the background image.
 
-## 6. Gaming Project <a name="gaming-App"></a>
+## 6. Gaming Project <a name="gaming-project"></a>
 ## 7. How to Run the Application
 
 1. Install the required dependencies: `pip install -r requirements.txt`
