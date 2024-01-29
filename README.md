@@ -22,8 +22,7 @@
 
 ## 1. Overview <a name="overview"></a>
 
-In this project we implement some filters and apply them to build a gaming project based on object detection by colour. We also implement a green screen effect and an invisibility cloak effect.
-We use OpenCV and Numpy libraries in Python.
+In this academic project, we meticulously developed custom algorithms from scratch to create a gaming project centered around object detection by color and filtering techniques. Our implementation includes the crafting of various filters and their application. Notably, we programmed our algorithms without relying on predefined functions, showcasing a hands-on and tailored approach to the entire process. Additionally, we incorporated advanced features such as a green screen effect and an invisibility cloak effect, both carefully designed and implemented using our own algorithms
 
 ## 2. Filters <a name="filters"></a>
 
