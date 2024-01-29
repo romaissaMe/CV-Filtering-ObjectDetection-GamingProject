@@ -19,6 +19,7 @@
 4. [Invisiblity Cloak](#invisiblity-cloak)
 5. [Green Screen](#green-screen)
 6. [Gaming Project](#gaming-project)
+7. [How to Run the Application](#how-to-run-the-application)
 
 ## 1. Overview <a name="overview"></a>
 
@@ -94,3 +95,7 @@ In this part we implement a function `green_screen` that replaces the pixels of 
 4. Replace the pixels of the green screen with the pixels of the background image.
 
 ## 6. Gaming Project <a name="gaming-App"></a>
+## 7. How to Run the Application
+
+1. Install the required dependencies: `pip install -r requirements.txt`
+2. Run the application: `streamlit run app.py`
